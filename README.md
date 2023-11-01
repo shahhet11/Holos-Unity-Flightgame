@@ -26,6 +26,9 @@ This is an endless survival type game that features an airplane/flight controlle
 2) StarField Skybox.[Link](https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717)
 3) Asteroid FBX Models. [Link](https://assetstore.unity.com/packages/3d/environments/sci-fi/asteroids-low-poly-pack-142164)
 4) Royalty free stock UI images for HUD and SFX for jet-engine sound.
+
+# Pre-requisite:
+Please set the resolution to 4K UHD (3840 x 2160) before running it in the Unity Editor.
     
 # Screen Shots
 ![Desktop Screenshot 2023 10 31 - 19 20 40 39](https://github.com/shahhet11/Holos-Unity-Flightgame/assets/29114279/29f1b1e9-4296-4e1d-bfff-142dab97c2bd)
